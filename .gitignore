@@ -1,0 +1,8 @@
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# SQLite journal files
+*-journal
+*-wal
